@@ -10,6 +10,7 @@ Honda designed a two-sided interactive film that enabled viewers to switch betwe
 The video gained an overall positive response, with 50% of people who saw it saying they were more inclined to buy a Civic R. However in my experience with the video I was slightly disappointed with how many bugs seemed to crop up when running the video in chrome.
 
 <h2> My version </h2> 
+
 When creating this video player I had some key requirements that I wanted to keep in mind, such as;
 
 > - The video player had to scale to the size of the browser
