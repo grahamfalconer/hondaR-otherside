@@ -24,7 +24,7 @@ These requirements each provided their own challenges, for example, the scaling 
 
 <img src="readme_images/video-player.png" style="width:90%;">
 
-> <p> To experience "the other side" press the button in the lower right hand corner or tap 'r' on your keyboard, when you are in the other side the button will    > display lit up as in the picture above. </p>
+> <p> To experience "the other side" press the button in the lower right hand corner or tap 'r' on your keyboard, when you are in the other side the button will     display lit up as in the picture above. </p>
 
 <h4> Usage </h4>
 
