@@ -24,5 +24,7 @@ These requirements each provided their own challenges, for example, the scaling 
 
 <img src="readme_images/video-player.png" style="width:90%;">
 
+<p> To experience "the other side" please press the button in the lower right hand corner, when you are in the other side the button will display lit up as in the picture above </p>
+
 Interested in displaying my video player somewhere? Well don't worry, I included an embed button which will send an alert containing around 4 lines of code you can copy to display my video player as an iFrame in your project! 
 
