@@ -5,9 +5,7 @@ In this project I will be looking at the custom video player used in the <a href
 <img src="readme_images/poster.png" style="width:90%;"> </br>
 
 <h3> What they did ... </h3>
-Honda designed a two-sided interactive film that enabled viewers to switch between stories about a suburban school-run and an art heist by typing “R” on their keyboards – a function that mirrors the Type R’s race button. There is a video synopsis available 
-
-Honda's version of the video player is hosted <a href="http://wklondon.com/work/the-other-side/"> here </a> and works best in Safari.
+Honda designed a two-sided interactive film that enabled viewers to switch between stories about a suburban school-run and an art heist by typing “R” on their keyboards – a function that mirrors the Type R’s race button. Experience it <a href="http://wklondon.com/work/the-other-side/"> here </a>, it works best in Safari.
 
 
 
