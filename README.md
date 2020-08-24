@@ -20,6 +20,8 @@ When creating this video player I had some key requirements that I wanted to kee
 > - The two videos would have to stay perfectly in-sync to achieve the desired effect
 > - The video player was to be built as a javascript class so that I may re-use it in future projects
 
+</br>
+
 These requirements each provided their own challenges, for example, the scaling required me to learn some basic CSS layout tricks and resize component dimensions in dynamic units of measurement. The "R" event/switch button required me to access the HTML video properties and manually mute it, as well as this my video player constructed itself with its own state and attributes so that it could keep track of what changes it was making to the video at certain moments. The constant tapping of these buttons is something inevitable in a project like this so I also utilized the event of them tapping the button to fire a function I built that re-syncs the videos back up by setting the current time of the first video equal to the second. Like I said I also wanted to build this as a javascript class and that is exactly what I did, a new video player instance is created when the window loads which constructs itself with 2 arguments (first video and second video), allowing this to be reused in future projects.
 
 <img src="readme_images/video-player.png" style="width:90%;">
