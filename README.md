@@ -22,5 +22,7 @@ When creating this video player I had some key requirements that I wanted to kee
 
 These requirements each provided their own challenges, for example, the scaling required me to learn some basic CSS layout tricks and resize component dimensions in dynamic units of measurement. The "R" event/switch button required me to access the HTML video properties and manually mute it, as well as this my video player constructed itself with its own state, attributes to keep track of what changes it was making to the video at certain moments. The constant tapping of these buttons is something inevitable in a project like this so I also utilized the event of them tapping the button to fire a function I built that re-syncs the videos back up by setting the current time of the first video equal to the second. Like I said I also wanted to build this as a javascript class and that is exactly what I did, a new video player instance is created when the window loads which constructs itself with 2 arguments (first video and second video), allowing this to be reused in future projects.
 
+<img src="readme_images/video-player.png" style="width:90%;">
+
 Interested in displaying my video player somewhere? Well don't worry, I included an embed button which will send an alert containing around 4 lines of code you can copy to display my video player as an iFrame in your project! 
 
