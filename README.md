@@ -14,7 +14,7 @@ The video gained an overall positive response, with 50% of people who saw it say
 When creating this video player I had some key requirements that I wanted to keep in mind, such as;
 
 > - The video player had to scale to the size of the browser
-> - The user would only have to tap R on their keyboard or the switch button to show the other side rather than hold it
+> - The user would only have to tap R on their keyboard / the switch button to show the other side (rather than hold it)
 > - The two videos would have to stay perfectly in-sync to achieve the desired effect
 > - The video player was to be built as a javascript class so that I may re-use it in future projects
 
