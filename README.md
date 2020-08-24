@@ -1,4 +1,4 @@
-<h1> hondaR-otherside </h1>
+<h1> HondaR-Otherside </h1>
 
 In this project I will be looking at the custom video player used in the <a href="https://www.youtube.com/watch?v=dO5OTCxGCto"> 2015 Honda Civic R Video Campaign </a> and see how they achieved creating such a powerful marketing tool through providing a unique video playback experience. I will then try to recreate my own version of the video player using JS & HTML.
 
