@@ -6,7 +6,7 @@ In this project, I will be looking at the custom video player used in the <a hre
 <img src="readme_images/poster.png" style="width:90%;"> </br>
 
 <h2> What they did ... </h2>
-Honda designed a two-sided interactive film that enabled viewers to switch between stories about a suburban school-run and an art heist by tapping “R” on their keyboards – a function that mirrors the Type R’s race button. Experience it <a href="http://wklondon.com/work/the-other-side/"> here </a> (works best in Safari).
+Honda designed a two-sided interactive film that enabled viewers to switch between stories about a suburban school-run and an art heist by pressing “R” on their keyboards – a function that mirrors the Type R’s race button. Experience it <a href="http://wklondon.com/work/the-other-side/"> here </a> (works best in Safari).
 The video gained an overall positive response, with 50% of people who saw it saying they were more inclined to buy a Civic R. However in my experience with the video I was slightly disappointed with how many bugs seemed to crop up when running the video in chrome.
 
 <h2> My version </h2> 
